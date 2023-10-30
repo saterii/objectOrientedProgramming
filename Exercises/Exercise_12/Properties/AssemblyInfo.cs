@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Exercise_12")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LabraNet")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Exercise_12")]
-[assembly: AssemblyCopyright("Copyright © LabraNet 2023")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("46ed7dd3-cfda-4546-8b00-e1c4168d445a")]
+[assembly: Guid("8d762287-5af2-44a9-b1fa-0dfb3f5a9eed")]
 
 // Version information for an assembly consists of the following four values:
 //
