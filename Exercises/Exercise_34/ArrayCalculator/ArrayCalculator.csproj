@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B60C6E41-95D5-4E33-AE96-16FD34EA6199}</ProjectGuid>
+    <ProjectGuid>{F7EA900A-6A28-4FCF-81E4-F7CC20306EB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exercise_43</RootNamespace>
-    <AssemblyName>Exercise_43</AssemblyName>
+    <RootNamespace>ArrayCalculator</RootNamespace>
+    <AssemblyName>ArrayCalculator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

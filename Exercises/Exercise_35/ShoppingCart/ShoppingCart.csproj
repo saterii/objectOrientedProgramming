@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{10784EDD-D3F0-43E5-8188-A92799FB75C3}</ProjectGuid>
+    <ProjectGuid>{D47A4F6D-2C97-4D22-AD8F-07CB9394AB05}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Exercise_35</RootNamespace>
-    <AssemblyName>Exercise_35</AssemblyName>
+    <RootNamespace>ShoppingCart</RootNamespace>
+    <AssemblyName>ShoppingCart</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
